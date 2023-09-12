@@ -1,0 +1,48 @@
+[
+    {
+    "id": "1",
+    "cover": "https://i.ibb.co/LrW65NP/1.jpg",
+    "title": "The Mystery of the Lost Key",
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co/QnTNrKJ/boy1.png",
+    "posted_date": "2023-09-12",
+    "reading_time": 15,
+    "hashtags": ["mystery", "adventure", "puzzle"]
+  },
+
+    {
+        "id": "2",
+        "cover": "https://i.ibb.co/3Cm243s/2.png",
+        "title": "Cooking with Chef Maria",
+        "author": "Maria Rodriguez",
+        "author_img": "https://i.ibb.co/VCM9fPG/boy2.jpg",
+        "posted_date": "2023-09-10",
+        "reading_time": 10,
+        "hashtags": ["cooking", "recipes", "food"]
+      },
+
+    {
+        "id": "3",
+        "cover": "https://i.ibb.co/1r8vqd0/3.png",
+        "title": "Exploring the Enchanted Forest",
+        "author": "Emily Smith",
+        "author_img": "https://i.ibb.co/LSWdNGq/girl1.jpg",
+        "posted_date": "2023-09-08",
+        "reading_time": 20,
+        "hashtags": ["nature", "adventure", "magic"]
+      },
+      
+
+    {
+        "id": "4",
+        "cover": "https://i.ibb.co/wKw0BzH/4.jpg",
+        "title": "Tech Trends 2023",
+        "author": "Alex Johnson",
+        "author_img": "https://i.ibb.co/DYSLVFK/girl2.jpg",
+        "posted_date": "2023-09-05",
+        "reading_time": 8,
+        "hashtags": ["technology", "trends", "innovation"]
+      }
+      
+]
+
